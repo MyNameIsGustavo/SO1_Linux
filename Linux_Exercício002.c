@@ -1,6 +1,6 @@
 /* Aula 01 - Nano Linux */
 
-/*Aplicação aplicada em sala de aula. O algoritmo foi desenvolvida no Nano em background(&). */
+/* Aplicação exemplificada em sala de aula. O algoritmo foi desenvolvida no Nano e executado em background(&). */
 
 /* Testa as reacoes do console quando um pai morre e o filho continua vivo */
 #include <errno.h>
